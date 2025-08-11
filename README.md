@@ -260,7 +260,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/PhanHoangKhang/PhanHoangKhang/output/snake.svg" alt="Snake animation" />
-
-###
